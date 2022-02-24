@@ -1,0 +1,58 @@
+﻿  Reading Qt configuration (H:/Qt5.14/5.14.1/msvc2017_64/bin/qmake)
+  Generate moc_predefs.h
+  Uic'ing mainwindow.ui...
+  Uic'ing mywidget.ui...
+  Rcc'ing image.qrc...
+  Moc'ing customobject.h...
+  Moc'ing custompage.h...
+  Moc'ing mainwindow.h...
+  Moc'ing mywidget.h...
+  customobject.cpp
+  custompage.cpp
+  main.cpp
+  mainwindow.cpp
+  mywidget.cpp
+G:\QT\LSNOte\LSNote\mywidget.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+G:\QT\LSNOte\LSNote\custompage.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+G:\QT\LSNOte\LSNote\customobject.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+G:\QT\LSNOte\LSNote\mainwindow.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+G:\QT\LSNOte\LSNote\mainwindow.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+G:\QT\LSNOte\LSNote\customobject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 customobject.cpp)
+G:\QT\LSNOte\LSNote\mainwindow.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mainwindow.cpp)
+G:\QT\LSNOte\LSNote\customobject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mainwindow.cpp)
+G:\QT\LSNOte\LSNote\customobject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+G:\QT\LSNOte\LSNote\custompage.cpp(31,44): warning C4100: “event”: 未引用的形参
+G:\QT\LSNOte\LSNote\mywidget.cpp(43,35): warning C4100: “event”: 未引用的形参
+G:\QT\LSNOte\LSNote\mywidget.cpp(54,35): warning C4100: “event”: 未引用的形参
+G:\QT\LSNOte\LSNote\mainwindow.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 customobject.cpp)
+G:\QT\LSNOte\LSNote\customobject.cpp(131,36): warning C4100: “event”: 未引用的形参
+G:\QT\LSNOte\LSNote\customobject.cpp(147,36): warning C4100: “event”: 未引用的形参
+G:\QT\LSNOte\LSNote\customobject.cpp(198,48): warning C4100: “event”: 未引用的形参
+G:\QT\LSNOte\LSNote\customobject.cpp(222,49): warning C4100: “pressedColor”: 未引用的形参
+G:\QT\LSNOte\LSNote\customobject.cpp(221,49): warning C4100: “bghovercolor”: 未引用的形参
+G:\QT\LSNOte\LSNote\customobject.cpp(330,44): warning C4100: “event”: 未引用的形参
+G:\QT\LSNOte\LSNote\customobject.cpp(342,44): warning C4100: “event”: 未引用的形参
+G:\QT\LSNOte\LSNote\customobject.cpp(348,54): warning C4100: “event”: 未引用的形参
+G:\QT\LSNOte\LSNote\customobject.cpp(385,56): warning C4100: “event”: 未引用的形参
+G:\QT\LSNOte\LSNote\customobject.cpp(397,51): warning C4100: “event”: 未引用的形参
+G:\QT\LSNOte\LSNote\customobject.cpp(547,36): warning C4100: “parent”: 未引用的形参
+G:\QT\LSNOte\LSNote\customobject.cpp(577,36): warning C4100: “event”: 未引用的形参
+G:\QT\LSNOte\LSNote\customobject.cpp(586,43): warning C4100: “event”: 未引用的形参
+G:\QT\LSNOte\LSNote\customobject.cpp(602,36): warning C4100: “event”: 未引用的形参
+G:\QT\LSNOte\LSNote\customobject.cpp(632,8): warning C4311: “类型强制转换”: 从“HANDLE”到“int”的指针截断
+G:\QT\LSNOte\LSNote\customobject.cpp(632,8): warning C4302: “类型强制转换”: 从“HANDLE”到“int”截断
+G:\QT\LSNOte\LSNote\customobject.cpp(622,48): warning C4100: “event”: 未引用的形参
+G:\QT\LSNOte\LSNote\customobject.cpp(708,9): warning C4311: “类型强制转换”: 从“QThread *”到“int”的指针截断
+G:\QT\LSNOte\LSNote\customobject.cpp(708,9): warning C4302: “类型强制转换”: 从“QThread *”到“int”截断
+G:\QT\LSNOte\LSNote\mainwindow.cpp(316,114): warning C4100: “s”: 未引用的形参
+G:\QT\LSNOte\LSNote\mainwindow.cpp(326,8): warning C4100: “s”: 未引用的形参
+G:\QT\LSNOte\LSNote\mainwindow.cpp(569,44): warning C4100: “event”: 未引用的形参
+  qrc_image.cpp
+  moc_customobject.cpp
+  moc_custompage.cpp
+  moc_mainwindow.cpp
+  moc_mywidget.cpp
+G:\QT\LSNOte\LSNote\mainwindow.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mainwindow.cpp)
+G:\QT\LSNOte\LSNote\customobject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_customobject.cpp)
+G:\QT\LSNOte\LSNote\customobject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mainwindow.cpp)
+  LSNote.vcxproj -> G:\QT\LSNOte\LSNote\debug\LSNote.exe

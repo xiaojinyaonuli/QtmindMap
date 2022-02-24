@@ -1,0 +1,12 @@
+customitem.o
+customobject.o
+custompage.o
+main.o
+mainwindow.o
+mywidget.o
+qrc_image.o
+moc_customitem.o
+moc_customobject.o
+moc_custompage.o
+moc_mainwindow.o
+moc_mywidget.o

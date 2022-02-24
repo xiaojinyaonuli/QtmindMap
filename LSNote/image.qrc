@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/1.png</file>
+        <file>image/creat.png</file>
+        <file>image/downbutton.png</file>
+        <file>image/down.svg</file>
+        <file>image/down_.svg</file>
+        <file>image/down2.svg</file>
+        <file>image/back.svg</file>
+        <file>image/shezhi.svg</file>
+        <file>image/author.svg</file>
+        <file>image/autor2.svg</file>
+        <file>image/author3.svg</file>
+        <file>image/qianjin.svg</file>
+        <file>image/down3.svg</file>
+        <file>image/qian.svg</file>
+        <file>image/blue.svg</file>
+        <file>image/options.svg</file>
+        <file>image/zuoceoption.svg</file>
+        <file>image/information.svg</file>
+        <file>image/houtui.svg</file>
+        <file>image/appear.png</file>
+        <file>image/open.svg</file>
+        <file>image/openp.png</file>
+        <file>image/creat (2).png</file>
+        <file>image/save.svg</file>
+        <file>image/main.svg</file>
+    </qresource>
+</RCC>
