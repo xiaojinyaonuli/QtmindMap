@@ -21,3 +21,11 @@ Qt project that mimics mind mapping(qt模仿的思维导图项目)
 在上传之前，我简单的写了此项目的思维导图以便于更好的观看<br>
 因为在代码中，注释不是十分的友好，没经过整理,sorry，**您可以在`mindimage`文件夹中进行查看**<br>
 
+*****
+**下面为运行时的截图，以便于您能更好的判断是否需要**<br>
+**`开始界面`**<br>
+
+![image](https://github.com/xiaojinyaonuli/QtmindMap/raw/master/RunImage/start.png)
+
+
+
