@@ -25,7 +25,16 @@ Qt project that mimics mind mapping(qt模仿的思维导图项目)
 **下面为运行时的截图，以便于您能更好的判断是否需要**<br>
 **`开始界面`**<br>
 
-![](https://github.com/xiaojinyaonuli/QtmindMap/blob/master/RunImage/start.png)
+![iamge](https://github.com/xiaojinyaonuli/QtmindMap/blob/master/RunImage/start.png)
+
+**`创建`**<br>
+![iamge](https://github.com/xiaojinyaonuli/QtmindMap/blob/master/RunImage/creat.png)
+
+**`Mind`**<br>
+![iamge](https://github.com/xiaojinyaonuli/QtmindMap/blob/master/RunImage/mind.png)
+
+**Thank you for visiting. I hope you enjoy it!**
+
 
 
 
